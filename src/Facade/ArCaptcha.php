@@ -13,7 +13,8 @@ use phpDocumentor\Reflection\Types\Boolean;
 class ArCaptcha extends Facade
 {
     /**
-     * getFacadeAccessor method
+     * getFacadeAccessor method.
+     *
      * @return string
      */
     protected static function getFacadeAccessor(): string
