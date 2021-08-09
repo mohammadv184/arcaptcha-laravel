@@ -1,4 +1,4 @@
-<p align="center"><img src="resources/images/arcaptcha-logo.png" alt="ArCaptcha" width="500" height="600"></p>
+<p align="center"><img src="resources/images/arcaptcha-logo.png" alt="ArCaptcha" width="500"></p>
 
 # Laravel ArCaptcha Package
 
